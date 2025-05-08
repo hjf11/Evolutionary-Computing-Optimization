@@ -1,0 +1,10 @@
+c ovo je komentar...
+c još malo komentara
+p cnf 3 6
+1 2 3 0
+1 2 -3 0
+1 -2 3 0
+-1 2 3 0
+-1 2 -3 0
+-1 -2 -3 0
+% 0
